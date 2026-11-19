@@ -1,7 +1,7 @@
 # Forest Logging Winch — Mechanical Design
 
-**EPFL · Mechanical Engineering · Bachelor Semester 2 (BA2) · Spring 2024 · 3 ECTS**  
-**Course:** Mechanical Construction II (*Construction mécanique II*)
+**EPFL · BSc Mechanical Engineering (BA2) · Mechanical Construction II · 3 ECTS ·**  
+**Academic group project · Team of four**
 
 **Mechanical Design · Force Analysis · Component Sizing · CAD · Technical Drawings**
 
